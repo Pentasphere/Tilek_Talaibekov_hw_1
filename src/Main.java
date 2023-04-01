@@ -25,5 +25,6 @@ public class Main {
         System.out.print("Введите ваше имя: ");
         String name = in.nextLine();
         System.out.println("Привет, " + name + "!");
+        //
     }
 }
