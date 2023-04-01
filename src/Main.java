@@ -26,5 +26,6 @@ public class Main {
         String name = in.nextLine();
         System.out.println("Привет, " + name + "!");
         //
+        //
     }
 }
